@@ -51,7 +51,7 @@ The model performance is compared before and after applying PCA using **Logistic
 | Without PCA | (output value) |
 | With PCA    | (output value) |
 
-*(Replace with your actual results)*
+
 
 ---
 
